@@ -1,0 +1,265 @@
+body{
+    margin:0;
+    background-color:rgb(158,158,158);
+}
+@font-face {
+    font-family: Roboto-Bold;
+    src: url(../fonts/Roboto-Bold.ttf)
+}
+@font-face {
+    font-family: Lato-Light;
+    src: url(../fonts/Lato-Light.ttf)
+}
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../fonts/Lato-Regular.ttf)
+}
+@font-face {
+    font-family: Roboto-Blackitalic;
+    src: url(../fonts/Roboto-Blackitalic.ttf)
+}
+@font-face {
+    font-family: Roboto-Light;
+    src: url(../fonts/Roboto-Light.ttf)
+}
+@font-face {
+    font-family: Font-Awesome;
+    src: url(../fonts/fontawesome-webfont.woff)
+}
+
+#screen{
+    min-height: 100px;
+    max-height: 200px;
+    background-color: white;
+    margin: 0;
+    width:100%;
+    z-index: 3;
+}
+#header {
+    height: inherit;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#logo {
+    width:250px;
+    padding:20px 0 0 25px;
+    float: left;
+    
+}
+#logo img{
+    display: inline-block;
+    float:left;
+}
+#logo h1{
+    font-size: 40px;
+    font-family: Roboto-Blackitalic, sans-serif;
+    font-weight:600;
+    color: rgb( 3, 47, 62 );
+    font-style: italic;
+    margin: 0 8px;
+    display: inline;
+    
+}
+#right_items {
+    margin: 0;
+    width: 600px;
+    float: right; 
+    height: 100px;
+    font-family: Lato-regular;
+    color: #032f3e;
+}
+#right_items ul{
+    
+    list-style-position: inside;
+}
+#right_items ul li {
+    float:right;
+    margin:20px 27px;
+}
+#nav {
+    background-color: #032f3e;
+    height: 100px;
+    box-shadow: 0px 20px 100px #333;
+    margin: 0 auto;
+    clear:both;
+}
+#nav ul {
+    width:1200px;
+    margin: 0 auto;
+    background-color: #032f3e;
+}
+#nav ul li {
+    float:left;
+    height: 96px;
+    width:170px;
+    margin: 0 15px;
+    list-style: none;
+    color: #ab987a;
+    font-family: Roboto-Bold, sans-serif;
+    
+}
+#nav ul li h3 {
+    margin-top: 38px;
+    font-size: 18px;
+}
+#nav ul li a:link{
+    color:white;
+    text-decoration: none;
+}
+#nav ul li a:hover{
+    text-decoration: underline;
+}
+
+#slider {
+    margin: 0 auto;
+    width: 1200px;
+    height:860px;
+}
+#slider h2 {
+    margin:0;
+    padding:15px;
+    font-family: Roboto-Light;
+    font-weight: 100;
+    font-size: 60px;
+    text-align: right;
+    color:white;
+    position:relative;
+    top:400px;
+}
+#slider h2::first-line {
+    
+    padding:15px;
+    font-family: Roboto-Bold;
+    font-size: 60px;
+    text-align: right;
+}
+#small_video {
+    background-color: #032f3e;
+    width:170px;
+    height:122px;
+    margin: 15px;
+    float:right;
+    position:relative;
+    top:400px;
+}
+#small_video img{
+    position:absolute;
+    top:25%;
+    left:35%;
+    
+}
+#pagination1 {
+}
+
+#content {
+}
+
+#services {
+}
+
+#services_icon {
+}
+
+#item1 {
+}
+
+#item2 {
+}
+
+#item3 {
+}
+
+#our_lessons {
+}
+
+#our_projects {
+}
+
+#close {
+}
+
+#pagination2 {
+}
+
+#item {
+}
+
+#go_to_project {
+}
+
+#share {
+}
+
+#images {
+}
+
+#action_zone {
+}
+
+#more_details {
+}
+
+#choose_your_plan {
+}
+
+#latest_news {
+}
+
+#item_left {
+}
+
+#all_articles {
+}
+
+#pagination3 {
+}
+
+#testimonials {
+}
+
+#button_left {
+}
+
+#button_right {
+}
+
+#map {
+}
+
+#bubble {
+}
+
+#footer {
+}
+
+#column1 {
+}
+
+#column2 {
+}
+
+#column3 {
+}
+
+#copyrights {
+}
+
+.fa-ul {
+}
+
+.fa-li.fa-chevron-left {
+}
+
+.comments {
+}
+
+.calendar {
+}
+
+.guitar_lessons {
+}
+
+.date {
+}
