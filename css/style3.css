@@ -70,10 +70,6 @@ body{
     font-family: Lato-regular;
     color: #032f3e;
 }
-#right_items ul{
-    
-    list-style-position: inside;
-}
 #right_items ul li {
     float:right;
     margin:20px 27px;
