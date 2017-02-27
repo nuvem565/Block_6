@@ -7,6 +7,10 @@ body{
     src: url(../fonts/Roboto-Bold.ttf)
 }
 @font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/Roboto-Bold.ttf)
+}
+@font-face {
     font-family: Lato-Light;
     src: url(../fonts/Lato-Light.ttf)
 }
@@ -314,6 +318,49 @@ body{
     width:26vw;
     display:table-cell;
     float:left;
+    margin: 4% 15px;
+    font-family: Roboto-Regular;
+}
+
+#spans{
+    font-weight: 100;
+}
+#left_span{
+    color:#ab987a;
+}
+#right_span{
+    color: #9E9E9E;
+    margin-left: 40%;
+    float:right;
+}
+#go_to_project h4{
+    font-family:Roboto-bold;
+    color: #032f3e;
+}
+#go_to_project hr{
+    border: solid 1px #ab987a;
+    width: 30px;
+    margin-bottom: 45px;
+    float:left;
+}
+#go_to_project p{
+    font-family:Lato-Light;
+    display: block;
+    clear: both;
+}
+#go_to_project_button {
+    height: 8vh;
+    width:17vw;
+    background-color: #032f3e;
+    font-family: Roboto-Bold;
+    margin-top: 30px;
+    color:white;
+    line-height: 8vh;
+    text-align: center;
+}
+#share {
+    color: #9E9E9E;
+    
 }
 #pagination2 {
     clear:both;
@@ -323,35 +370,7 @@ body{
     background-color: white;
     text-align: center;
 }
-#pagination span{
-    margin: 20px;
-}
-#go_to_project p{
-    
-    
-}
-#left_span{
-    color:#ab987a;
-     
-    
-}
-#right_span{
-    color: #9E9E9E;
-    display:
-    
-}
-#go_to_project h4{
-    
-}
-#go_to_project hr{
-    border: solid 1px #ab987a;
-    width: 30px;
-    margin: 30px auto;
-}
-#go_to_project_button {
-}
-#share {
-}
+
 #images {
     clear: both;
     background-color: #f8f9fb;
