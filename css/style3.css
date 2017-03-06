@@ -157,8 +157,8 @@ body{
     position:absolute;
     top:25%;
     left:35%;
-    height: 7.6vhmax;
-    width: 3.35vwmax;
+    height: 7.6vh;
+    width: 3.35vw;
 }
 #pagination1 {
     position: relative;
@@ -542,9 +542,8 @@ body{
 #item_left {
     background-color: white;
     width:570px;
-    overflow: hidden;
+    
     float:left;
-
 }
 #comments{
     width:60px;
@@ -552,8 +551,8 @@ body{
     background-color: #ab987a;
     color:white;
     position: relative;
-    top:-189px;
-    left:510px;
+    left: 510px;
+    z-index: 3;
 }
 #calendar{
     width:60px;
@@ -561,13 +560,14 @@ body{
     background-color:#032f3e;
     color:white;
     position: relative;
-    top:-189px;
     left:510px;
+    z-index: 3;
+    
 }
 #item_left img {
     width:inherit;
     height: 185px;
-    margin-bottom: -120px;
+    margin-top: -120px;
 }
 
 #item_left h4{
