@@ -2,7 +2,6 @@ body{
     margin:0;
     background-color:rgb(158,158,158);
 }
-
 @font-face {
     font-family: Roboto-Bold;
     src: url(../fonts/Roboto-Bold.ttf)
@@ -553,6 +552,9 @@ body{
     position: relative;
     left: 510px;
     z-index: 3;
+    text-align: center;
+    line-height: 1.9em;
+    font-family: Roboto-Regular;
 }
 #calendar{
     width:60px;
@@ -562,7 +564,9 @@ body{
     position: relative;
     left:510px;
     z-index: 3;
-    
+    text-align: center;
+    line-height: 1.9em;
+    font-family: Roboto-Regular;
 }
 #item_left img {
     width:inherit;
@@ -637,6 +641,9 @@ body{
     background-color: #ab987a;
     color:white;
     float:right;
+    text-align: center;
+    line-height: 1.9em;
+    font-family: Roboto-Regular;
 }
 .calendar{
     width:60px;
@@ -647,6 +654,9 @@ body{
     position: relative;
     top:60px;
     left:60px;
+    text-align: center;
+    line-height: 1.9em;
+    font-family: Roboto-Regular;
 }
 #all_articles {
     clear: both;
