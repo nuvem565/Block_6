@@ -511,10 +511,6 @@ body{
     text-align: center;
     float:right;
 }
-
-#latest_news {
-    background-color: #f8f9fb;
-}
 #latest_news {
     padding: 20vh 21.47vw;
     margin:0 auto;
