@@ -531,7 +531,7 @@ body{
     left: 510px;
     z-index: 3;
     text-align: center;
-    line-height: 1.9em;
+    line-height: 1.6em;
     font-family: Roboto-Regular;
 }
 #calendar{
@@ -543,7 +543,7 @@ body{
     left:510px;
     z-index: 3;
     text-align: center;
-    line-height: 1.9em;
+    line-height: 1.6em;
     font-family: Roboto-Regular;
 }
 #item_left img {
@@ -620,7 +620,7 @@ body{
     color:white;
     float:right;
     text-align: center;
-    line-height: 1.9em;
+    line-height: 1.6em;
     font-family: Roboto-Regular;
 }
 .calendar{
@@ -633,7 +633,7 @@ body{
     top:60px;
     left:60px;
     text-align: center;
-    line-height: 1.9em;
+    line-height: 1.6em;
     font-family: Roboto-Regular;
 }
 #all_articles {
