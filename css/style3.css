@@ -78,7 +78,7 @@ body{
     width: 600px;
     float: right; 
     height: 100px;
-    font-family: Lato-regular;
+    font-family: 'Lato', sans-serif;
     color: #032f3e;
 }
 #right_items ul li {
@@ -195,7 +195,8 @@ body{
 #services p{
     color: rgb(97,97,97);
     text-align: center;
-    font-family: Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
 }
 #services_icons {
     display: table;
@@ -285,7 +286,8 @@ body{
 #our_projects p{
     color: rgb(97,97,97);
     text-align: center;
-    font-family: Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight:lighter;
     margin-bottom: 100px;
 }
 #close {
@@ -354,7 +356,8 @@ body{
     
 }
 #go_to_project p{
-    font-family:Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
     display: block;
    
 }
@@ -531,7 +534,8 @@ body{
 #latest_news p{
     color: rgb(97,97,97);
     text-align: center;
-    font-family: Lato-Light;
+    font-family: Lato, sans-serif;
+    font-weight:lighter;
 }
 #guitar_lessons{
     background-color: #f8f9fb;
@@ -588,7 +592,8 @@ body{
     
 }
 #item_left p{
-    font-family:Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight:lighter;
     margin: 0 15px;
     
 }
@@ -702,7 +707,8 @@ body{
 #testimonials  p{
     color: rgb(97,97,97);
     text-align: center;
-    font-family: Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight:lighter;
     font-style: italic;
 }
 #testimonials h4{
@@ -797,14 +803,15 @@ body{
     float:right;
 }
 #bubble h5{
-    font-family:Lato-Bold; 
+    font-family: 'Lato', sans-serif;
+    font-weight:lighter;
     font-size:1em;
     line-height: 0.8em;
     margin:10px;
     width:80%;
 }
 #bubble p {
-    font-family:Lato-Regular;
+    font-family: 'Lato', sans-serif;
     line-height: 1.4em;
 }
 #footer {
@@ -823,7 +830,7 @@ body{
 #column1 {
     float:left;
     width:20vw;
-    font-family:Lato-Regular;
+    font-family: 'Lato', sans-serif;
     margin-left: 11vw;
 }
 
@@ -837,7 +844,7 @@ body{
 }
 #column2 ul li{
     margin:15px 0;
-    font-family: Lato-Regular;
+    font-family: 'Lato', sans-serif;
 }
 #column2 ul li span{
     margin:15px;
@@ -850,13 +857,14 @@ body{
 }
 #column3 .date{
     color:#ab987a;
-    font-family: Lato-Regular;
+    font-family: 'Lato', sans-serif;
 }
 #column3 h5{
     font-family: Roboto-Bold;
 }
 #column3 p{
-    font-family: Lato-Light;
+    font-family: 'Lato', sans-serif;
+    font-weight:lighter;
 }
 #copyrights {
     background-color: #032f3e;
