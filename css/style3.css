@@ -145,6 +145,7 @@ body{
 }
 #small_video {
     background-color: #032f3e;
+    background-image: url("../img/play.png") no-repeat 50% 50%; 
     width:170px;
     height:122px;
     margin: 15px;
