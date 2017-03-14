@@ -537,15 +537,17 @@ body{
     height:60px;
     background-color:#032f3e;
     color:white;
-    display:inline-block;
     float:right;
+    display:inline-block;
     text-align: center;
     line-height: 1.6em;
     font-family: Roboto-Regular;
+    margin-top:62px;
 }
 #item_left .photo {
     width:inherit;
     height: 185px;
+    background-image: url('../img/gray.png') no-repeat;
 }
 
 #item_left h4{
@@ -596,6 +598,7 @@ body{
     height: 120px;
     float:left;
     overflow: hidden;
+    background-image: url('../img/gray.png') no-repeat;
 }
 .guitar_lessons h4{
     width:470px;
@@ -615,6 +618,7 @@ body{
     background-color: #ab987a;
     color:white;
     float:right;
+    display:inline-block;
     text-align: center;
     line-height: 1.6em;
     font-family: Roboto-Regular;
@@ -625,12 +629,11 @@ body{
     background-color:#032f3e;
     color:white;
     float:right;
-    position: relative;
-    top:60px;
-    left:60px;
+    display:inline-block;
     text-align: center;
     line-height: 1.6em;
     font-family: Roboto-Regular;
+    margin-top:62px;
 }
 #all_articles {
     clear: both;
