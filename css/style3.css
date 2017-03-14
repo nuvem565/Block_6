@@ -526,9 +526,8 @@ body{
     height:60px;
     background-color: #ab987a;
     color:white;
-    position: relative;
-    left: 510px;
-    z-index: 3;
+    display:inline-block;
+    float:right;
     text-align: center;
     line-height: 1.6em;
     font-family: Roboto-Regular;
@@ -538,17 +537,15 @@ body{
     height:60px;
     background-color:#032f3e;
     color:white;
-    position: relative;
-    left:510px;
-    z-index: 3;
+    display:inline-block;
+    float:right;
     text-align: center;
     line-height: 1.6em;
     font-family: Roboto-Regular;
 }
-#item_left img {
+#item_left .photo {
     width:inherit;
     height: 185px;
-    margin-top: -120px;
 }
 
 #item_left h4{
@@ -594,7 +591,7 @@ body{
     margin:0 0 55px 55px;
     background-color: white;
 }
-.guitar_lessons img{
+.guitar_lessons .photo{
     width:170px;
     height: 120px;
     float:left;
