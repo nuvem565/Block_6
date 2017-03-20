@@ -163,7 +163,7 @@ body{
 }
 
 #services{
-    padding: 20vh 10vw 0 10vw;
+    padding: 20vh 10vw 20vh 10vw;
     margin:0 auto;
     background-color: rgb(248,249,251);
 }
@@ -185,9 +185,8 @@ body{
 }
 #services_icons {
     display: table;
-    margin: 18vh auto;
+    margin: 0 auto;
 }
-
 #services_icons .item{
     float:left;
     padding: 15px 6.76vw;
