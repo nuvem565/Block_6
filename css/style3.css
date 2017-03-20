@@ -182,6 +182,7 @@ body{
     color: rgb(97,97,97);
     text-align: center;
     font-family: Lato-Light;
+    margin-bottom:50px;
 }
 #services_icons {
     display: table;
