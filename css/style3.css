@@ -533,6 +533,7 @@ body{
     line-height: 1.6em;
     font-family: Roboto-Regular;
     margin:0;
+    padding:2px;
 }
 #guitar_lessons ul li:first-child{
     background-color: #ab987a;
@@ -610,7 +611,6 @@ body{
     list-style: none;
     margin:0;
 }
-
 .guitar_lessons ul li{
     width:60px;
     height:60px;
@@ -621,6 +621,7 @@ body{
     line-height: 1.6em;
     font-family: Roboto-Regular;
     margin:0;
+    padding:2px;
 }
 .guitar_lessons ul li:first-child{
     background-color: #ab987a;
