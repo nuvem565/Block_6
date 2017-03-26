@@ -437,7 +437,6 @@ body{
     color:white;
     text-align: center;
 }
-
 #action_zone {
     color:#032f3e;
     padding: 30px 10vw;
@@ -449,12 +448,10 @@ body{
     font-size:1.6em;  
     margin:0;
     line-height: 40px;
-    display: block;
     float:left;
 }
 #action_zone p span {
     font-size: 5em;
-    display: inline-block;
     float:left;
     margin-right: 4vw;
 }
@@ -485,7 +482,6 @@ body{
     text-align: center;
     float:right;
 }
-
 #latest_news {
     padding: 20vh 21.47vw;
     margin:0 auto;
