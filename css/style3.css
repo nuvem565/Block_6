@@ -173,7 +173,7 @@ body{
     text-align: center;
     font-family: Roboto-Bold;
 }
-#services hr{
+hr{
     border: solid 1px #ab987a;
     width: 30px;
     margin: 30px auto;
@@ -262,11 +262,7 @@ body{
     text-align: center;
     font-family: Roboto-Bold;
 }
-#our_projects hr{
-    border: solid 1px #ab987a;
-    width: 30px;
-    margin: 30px auto;
-}
+
 #our_projects p{
     color: rgb(97,97,97);
     text-align: center;
@@ -274,7 +270,7 @@ body{
     margin-bottom: 100px;
 }
 #close {
-    margin:0;
+    margin:0 15px 0 0;
     background-color: white;
     width: 70px;
     height: 70px;
@@ -283,7 +279,6 @@ body{
     color: #9E9E9E;
     line-height: 70px;
     text-align: center;
-    margin-right: 15px;
 }
 
 #section1 {
@@ -303,7 +298,6 @@ body{
     width:20%;
     height:78%;
     min-width: 430px;
-    
     float:left;
     padding-top: 4%;
     font-family: Roboto-Regular;
@@ -326,12 +320,6 @@ body{
     font-family:Roboto-bold;
     color: #032f3e;
     display:inline-block;
-}
-#go_to_project hr{
-    border: solid 1px #ab987a;
-    width: 30px;
-    margin-bottom: 45px;
-    
 }
 #go_to_project p{
     font-family:Lato-Light;
@@ -364,7 +352,6 @@ body{
     background-color: white;
     text-align: center;
 }
-
 #images {
     background-color: #f8f9fb;
     padding: 20vh 12vw;
@@ -437,6 +424,7 @@ body{
     color:white;
     text-align: center;
 }
+
 #action_zone {
     color:#032f3e;
     padding: 30px 10vw;
@@ -482,6 +470,7 @@ body{
     text-align: center;
     float:right;
 }
+
 #latest_news {
     padding: 20vh 21.47vw;
     margin:0 auto;
@@ -493,11 +482,6 @@ body{
     text-align: center;
     font-family: Roboto-Bold;
     
-}
-#latest_news hr{
-    border: solid 1px #ab987a;
-    width: 30px;
-    margin: 30px auto;
 }
 #latest_news p{
     color: rgb(97,97,97);
@@ -539,7 +523,6 @@ body{
     border: solid 1px #ab987a;
     width: 170px;
     margin-bottom: 45px;
-    
 }
 #item_left p{
     font-family:Lato-Light;
@@ -637,11 +620,6 @@ body{
     font-family: Roboto-Bold;
     
 }
-#testimonials  hr{
-    border: solid 1px #ab987a;
-    width: 30px;
-    margin: 30px auto;
-}
 #testimonials img{
     display:block;
     overflow: hidden;
@@ -666,10 +644,8 @@ body{
 #testimonials h5{
     color: #ab987a;
     font-family:Roboto-Light;
-    
     text-align: center;
 }
-
 #testimonials #left_page{
     position:relative;
     top: -30vh;
